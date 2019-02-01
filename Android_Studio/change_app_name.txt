@@ -1,0 +1,5 @@
+Just go to res>values>strings.xml. One line says Somethig-your name
+<string name="app_name">Somethig-your name</string>
+Just replace your original name to
+<string name="app_name">Your Name</string>
+
